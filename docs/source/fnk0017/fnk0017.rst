@@ -40,9 +40,9 @@ Freenove Ultimate Starter Kit
    codes/tutorial/13_Joystick.rst
    codes/tutorial/14_Acceleration_sensor.rst
    codes/tutorial/15_LED_Matrix.rst
+   codes/tutorial/16_LCD1602.rst
    codes/tutorial/16A_LCD1602.rst
    codes/tutorial/16B_LCD1602.rst
-   codes/tutorial/16_LCD1602.rst
    codes/tutorial/17_Digital_Display.rst
    codes/tutorial/18_Stepper_Motor.rst
    codes/tutorial/19_Matrix_Keypad.rst

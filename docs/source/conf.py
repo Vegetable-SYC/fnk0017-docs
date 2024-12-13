@@ -19,7 +19,7 @@ os.system("git clone --depth 1 https://github.com/Freenove/Freenove_Ultimate_Sta
 # os.system("git clone --depth 1 https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi freenove_34_Kit")
 
 def prepend_to_file(file_path, content):
-    with open(file_path, "r+") as file:
+    with open(file_path, "r+") as filce:
         original = file.read()
         file.seek(0)  # 将文件光标移动到开头
         file.write(content)
