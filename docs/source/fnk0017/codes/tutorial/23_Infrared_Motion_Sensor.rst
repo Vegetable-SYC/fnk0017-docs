@@ -4,7 +4,7 @@ Chapter Infrared Motion Sensor
 
 Infrared Motion Sensor is an integrated sensor that can sense the motion of the human body. Now let us try to use it.
 
-Project 23.1 Infrared Motion Sensor
+Project Infrared Motion Sensor
 ***************************************************************
 
 Now, we'll use Infrared Motion Sensor to detect human motion.

@@ -4,7 +4,7 @@ Chapter Acceleration sensor
 
 In the previous chapter, we have learned sensors that are used to detect light or temperature. Now we will learn a sensor that can detect acceleration.
 
-Project 14.1 Acceleration Detection
+Project Acceleration Detection
 ***************************************************************
 
 We will use serial port to get the data of MPU6050 module.
