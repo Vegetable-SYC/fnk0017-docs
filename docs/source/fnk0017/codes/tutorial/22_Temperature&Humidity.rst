@@ -123,3 +123,5 @@ Verify and upload the code, open the Serial Monitor, and then you will see the t
 
 .. image:: ../_static/imgs/22_Temperature&Humidity/Chapter22_04.png
     :align: center
+
+

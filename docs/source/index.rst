@@ -3,8 +3,8 @@ Freenove Ultimate Starter Kit
 ##############################################################################
 
 .. toctree::
-   :titlesonly:
    :maxdepth: 2
    :caption: FNK0017
+   :glob:
 
    fnk0017/fnk0017.rst
