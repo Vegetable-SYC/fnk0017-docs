@@ -3,19 +3,19 @@ FNK0017-Freenove Ultimate Starter Kit
 ##############################################################################
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    :caption: Welcome
 
    fnk0017/codes/tutorial/Welcome.rst
 
 .. toctree::
-   :titlesonly: 
+   :maxdepth: 1
    :caption: Preface
 
    fnk0017/codes/tutorial/Preface.rst
    
 .. toctree::
-   :titlesonly: 
+   :maxdepth: 1
    :caption: First Use
 
    fnk0017/codes/tutorial/First_use.rst
@@ -54,19 +54,19 @@ FNK0017-Freenove Ultimate Starter Kit
    fnk0017/codes/tutorial/25_Soldering_Circuit_Board.rst
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    :caption: Other Components
 
    fnk0017/codes/tutorial/Other_Components.rst
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    :caption: What's Next?
 
    fnk0017/codes/tutorial/WhatsNext.rst
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    :caption: Appendix
 
    fnk0017/codes/tutorial/Appendix.rst
