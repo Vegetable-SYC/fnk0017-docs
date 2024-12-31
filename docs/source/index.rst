@@ -22,6 +22,7 @@ FNK0017-Freenove Ultimate Starter Kit
 
 .. toctree::
    :numbered:
+   :maxdepth: 1
    :caption: Projects
     
    fnk0017/codes/tutorial/1_LED_Blink
