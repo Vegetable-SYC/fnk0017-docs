@@ -22,7 +22,7 @@ Freenove Ultimate Starter Kit
 
 .. toctree::
    :numbered:
-   :titlesonly:
+   :maxdepth: 1
    :caption: Projects
     
    codes/tutorial/1_LED_Blink
